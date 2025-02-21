@@ -1,1 +1,1 @@
-This project all about api-advanced project assignment on the intranet
+This project all about api-advanced project assignment on the intra
